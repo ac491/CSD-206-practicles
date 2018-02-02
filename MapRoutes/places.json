@@ -1,0 +1,34 @@
+{
+  "places": [
+    {
+      "place": "a",
+      "id": "1",
+      "connected": "b,c",
+      "data":"petrol pump,good restaurants"
+    },
+    {
+      "place": "b",
+      "id": "2",
+      "connected": "a,c,e",
+      "data":"petrol pump,national meuseum"
+    },
+    {
+      "place": "c",
+      "id": "3",
+      "connected": "a,b,d",
+      "data":"dhabas,theme parks"
+    },
+    {
+      "place": "d",
+      "id": "4",
+      "connected": "c,e",
+      "data":"film city,good restaurants"
+    },
+    {
+      "place": "e",
+      "id": "5",
+      "connected": "d,b",
+      "data":"petrol pump,movie theatres"
+    }
+  ]
+}

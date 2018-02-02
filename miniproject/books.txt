@@ -1,0 +1,7 @@
+B1,thriller
+B2,thriller
+B3,thriller
+B4,fiction
+B5,fiction
+B6,fiction
+B7,children
